@@ -1,5 +1,5 @@
 
-# Store Manager
+# Store Manager Node.Js
  
 Desenvolvi aqui a minha primeira API utilizando alguma arquitetura. Nesse caso, utilizei a MSC. Além disso, a API é RESTful.
 
@@ -10,3 +10,5 @@ Foram desenvolvidas todas as camadas da API (Models, Services, e Controllers).
 Nessa aplicação é possível realizar as operações básicas que se pode fazer em um determinado banco de dados: Criação, Leitura, Atualização e Exclusão.
 
 Foi utilizado o banco MySQL para a gestão de dados.
+
+Foram desenvolvidos testes que cobrem 60% da aplicação, utilizando mocha, chai e sinon.
